@@ -1,8 +1,3 @@
-Of course. Here is the flattened version of the JSON data. In this structure, the nested `months` and `days` arrays have been removed. Instead, there is a single top-level array where each object represents one day's complete liturgical information.
-
-This format is often easier to parse and import into databases or spreadsheets.
-
-```json
 [
   {
     "year": 2025,
