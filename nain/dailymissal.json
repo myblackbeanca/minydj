@@ -1,6 +1,3 @@
-Of course. Here is the JSON data for the 2025 Catholic Mass Readings. You can copy the content below and save it as a `.json` file (e.g., `mass_readings_2025.json`).
-
-```json
 {
   "year": 2025,
   "months": [
