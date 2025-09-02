@@ -1,0 +1,3021 @@
+{
+  "mass_readings_2025": {
+    "months_included": [
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "total_entries": 125,
+    "date_range": {
+      "start": "2025-09-01",
+      "end": "2025-12-31"
+    },
+    "readings": [
+      {
+        "date": "2025-09-01",
+        "weekday": "Monday",
+        "celebration": "Ordinary Weekday/ Labor Day (Labor Day)",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Thessalonians 4: 13-18"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 96: 1 and 3, 4-5, 11-12, 13"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 4: 18"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 4: 16-30"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-02",
+        "weekday": "Tuesday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Thessalonians 5: 1-6, 9-11"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 27: 1, 4, 13-14"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 7: 16"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 4: 31-37"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-03",
+        "weekday": "Wednesday",
+        "celebration": "Gregory the Great, Pope, Religious, Doctor Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Colossians 1: 1-8"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 52: 10, 11"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 4: 18"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 4: 38-44"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-04",
+        "weekday": "Thursday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Colossians 1: 9-14"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 98: 2-3ab, 3cd-4, 5-6"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 4: 19"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 5: 1-11"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-05",
+        "weekday": "Friday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Colossians 1: 15-20"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 100: 1b-2, 3, 4, 5"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 8: 12"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 5: 33-39"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-06",
+        "weekday": "Saturday",
+        "celebration": "Ordinary Weekday/ Optional Memorial of the Blessed Virgin Mary",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Colossians 1: 21-23"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 54: 3-4, 6 and 8"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 14: 6"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 6: 1-5"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-07",
+        "weekday": "Sunday",
+        "celebration": "Twenty-Third Sunday in Ordinary Time",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Wisdom 9: 13-18b"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 90: 3-4, 5-6, 12-13, 14 and 17"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Philemon 1: 9-10, 12-17"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Psalms 119: 135"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 14: 25-33"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-08",
+        "weekday": "Monday",
+        "celebration": "Nativity of the Blessed Virgin Mary Feast",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Micah 5: 1-4a or Romans 8: 28-30"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 13: 6ab, 6c"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 1: 1-16, 18-23"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-09",
+        "weekday": "Tuesday",
+        "celebration": "Peter Claver, Priest, Religious, Missionary Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Colossians 2: 6-15"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 145: 1b-2, 8-9, 10-11"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 15: 16"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 6: 12-19"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-10",
+        "weekday": "Wednesday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Colossians 3: 1-11"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 145: 2-3, 10-11, 12-13ab"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 6: 23ab"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 6: 20-26"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-11",
+        "weekday": "Thursday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Colossians 3: 12-17"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 150: 1b-2, 3-4, 5-6"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "First John 4: 12"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 6: 27-38"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-12",
+        "weekday": "Friday",
+        "celebration": "Ordinary Weekday/ Holy Name of Mary",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Timothy 1: 1-2, 12-14"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 16: 1b-2a and 5, 7-8, 11"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 17: 17b, 17a"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 6: 39-42"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-13",
+        "weekday": "Saturday",
+        "celebration": "John Chrysostom, Bishop, Doctor Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Timothy 1: 15-17"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 113: 1b-2, 3-4, 5a and 6-7"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 14: 23"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 6: 43-49"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-14",
+        "weekday": "Sunday",
+        "celebration": "Exaltation of the Holy Cross Feast",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Numbers 21: 4b-9"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 78: 1bc-2, 34-35, 36-37, 38"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Philippians 2: 6-11"
+          },
+          {
+            "type": "Gospel",
+            "reference": "John 3: 13-17"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-15",
+        "weekday": "Monday",
+        "celebration": "Our Lady of Sorrows Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Timothy 2: 1-8"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 28: 2, 7, 8-9"
+          },
+          {
+            "type": "Gospel",
+            "reference": "John 19: 25-27 or Luke 2: 33-35"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-16",
+        "weekday": "Tuesday",
+        "celebration": "Cornelius, Pope, Martyr, and Cyprian, Bishop, Martyr Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Timothy 3: 1-13"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 101: 1b-2ab, 2cd-3ab, 5, 6"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 7: 16"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 7: 11-17"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-17",
+        "weekday": "Wednesday",
+        "celebration": "Ordinary Weekday/ Robert Bellarmine, Bishop, Religious, Doctor",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Timothy 3: 14-16"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 111: 1-2, 3-4, 5-6"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 6: 63c, 68c"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 7: 31-35"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-18",
+        "weekday": "Thursday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Timothy 4: 12-16"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 111: 7-8, 9, 10"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 11: 28"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 7: 36-50"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-19",
+        "weekday": "Friday",
+        "celebration": "Ordinary Weekday/ Januarius, Bishop, Martyr",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Timothy 6: 2c-12"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 49: 6-7, 8-10, 17-18, 19-20"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 11: 25"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 8: 1-3"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-20",
+        "weekday": "Saturday",
+        "celebration": "Andrew Kim Taegon, Priest, Martyr, Paul Chong Hasang, Catechist, Martyr, & Companions, Martyrs Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Timothy 6: 13-16"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 100: 1b-2, 3, 4, 5"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 8: 15"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 8: 4-15"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-21",
+        "weekday": "Sunday",
+        "celebration": "Twenty-Fifth Sunday in Ordinary Time",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Amos 8: 4-7"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 113: 1-2, 4-6, 7-8"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "First Timothy 2: 1-8"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Second Corinthians 8: 9"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 16: 1-13"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-22",
+        "weekday": "Monday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Ezra 1: 1-6"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 126: 1b-2ab, 2cd-3, 4-5, 6"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 5: 16"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 8: 16-18"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-23",
+        "weekday": "Tuesday",
+        "celebration": "Pio of Pietrelcina, Priest Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Ezra 6: 7-8, 12b, 14-20"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 122: 1-2, 3-4ab, 4cd-5"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 11: 28"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 8: 19-21"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-24",
+        "weekday": "Wednesday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Ezra 9: 5-9"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Tobit 13: 2, 3-4a, 6, 8"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Mark 1: 15"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 9: 1-6"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-25",
+        "weekday": "Thursday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Haggai 1: 1-8"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 149: 1b-2, 3-4, 5-6a and 9b"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 14: 6"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 9: 7-9"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-26",
+        "weekday": "Friday",
+        "celebration": "Ordinary Weekday/ Cosmas and Damian, Martyrs",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Haggai 2: 1-9"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 43: 1, 2, 3, 4"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Mark 10: 45"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 9: 18-22"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-27",
+        "weekday": "Saturday",
+        "celebration": "Vincent De Paul, Priest, Religious Founder Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Zechariah 2: 5-9, 14-15a"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Jeremiah 31: 10, 11-12ab, 13"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Second Timothy 1: 10"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 9: 43b-45"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-28",
+        "weekday": "Sunday",
+        "celebration": "Twenty-Sixth Sunday in Ordinary Time",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Amos 6: 1a, 4-7"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 146: 7, 8-9, 9-10"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "First Timothy 6: 11-16"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Second Corinthians 8: 9"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 16: 19-31"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-29",
+        "weekday": "Monday",
+        "celebration": "Michael, Gabriel, Raphael, Archangels Feast",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Daniel 7: 9-10, 13-14 or Revelation 12: 7-12ab"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 138: 1-2ab, 2cde-3, 4-5"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Psalms 103: 21"
+          },
+          {
+            "type": "Gospel",
+            "reference": "John 1: 47-51"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-09-30",
+        "weekday": "Tuesday",
+        "celebration": "Jerome, Priest, Doctor Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Zechariah 8: 20-23"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 87: 1b-3, 4-5, 6-7"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Mark 10: 45"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 9: 51-56"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-01",
+        "weekday": "Wednesday",
+        "celebration": "Thérèse of Lisieux, Virgin, Religious, Doctor Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Nehemiah 2: 1-8"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 137: 1-2, 3, 4-5, 6"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Philippians 3: 8-9"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 9: 57-62"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-02",
+        "weekday": "Thursday",
+        "celebration": "The Guardian Angels Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Nehemiah 8: 1-4a, 5-6, 7b-12"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 19: 8, 9, 10, 11"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Psalms 103: 21"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 18: 1-5, 10"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-03",
+        "weekday": "Friday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Baruch 1: 15-22"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 79: 1b-2, 3-5, 8, 9"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Psalms 95: 8"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 10: 13-16"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-04",
+        "weekday": "Saturday",
+        "celebration": "Francis of Assisi, Religious Founder Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Baruch 4: 5-12, 27-29"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 69: 33-35, 36-37"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 11: 25"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 10: 17-24"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-05",
+        "weekday": "Sunday",
+        "celebration": "Twenty-Seventh Sunday in Ordinary Time",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Habakkuk 1: 2-3; 2: 2-4"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 95: 1-2, 6-7, 8-9"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Second Timothy 1: 6-8, 13-14"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "First Peter 1: 25"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 17: 5-10"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-06",
+        "weekday": "Monday",
+        "celebration": "Ordinary Weekday/ Bruno, Priest, Hermit, Religious Founder/ Blessed Marie-Rose Durocher, Virgin, Religious Founder",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Jonah 1: 1 – 2: 1-2, 11"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Jonah 2: 3, 4, 5, 8"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 13: 34"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 10: 25-37"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-07",
+        "weekday": "Tuesday",
+        "celebration": "Our Lady of the Rosary Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Jonah 3: 1-10"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 130: 1b-2, 3-4ab, 7-8"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 11: 28"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 10: 38-42"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "Wednesday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Jonah 4: 1-11"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 86: 3-4, 5-6, 9-10"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Romans 8: 15bc"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 11: 1-4"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "Thursday",
+        "celebration": "Ordinary Weekday/ Denis, Bishop, Martyr, & Companions, Martyrs/ John Leonardi, Priest",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Malachi 3: 13-18, 4: 1-2b"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 1: 1-2, 3, 4 and 6"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Acts 16: 14b"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 11: 5-13"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "Friday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Joel 1: 13-15; 2: 1-2"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 9: 2-3, 6 and 16, 8-9"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 12: 31b-32"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 11: 15-26"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "Saturday",
+        "celebration": "Ordinary Weekday/ Optional Memorial of the Blessed Virgin Mary",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Joel 4: 12-21"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 97: 1-2, 5-6, 11-12"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 11: 28"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 11: 27-28"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "Sunday",
+        "celebration": "Twenty-Eighth Sunday in Ordinary Time",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Second Kings 5: 14-17"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 98: 1, 2-3ab, 3c-4"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Second Timothy 2: 8-13"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "First Thessalonians 5: 18"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 17: 11-19"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "Monday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 1: 1-7"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 98: 1, 2-3ab, 3cd-4"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Psalms 95: 8"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 11: 29-32"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "Tuesday",
+        "celebration": "Ordinary Weekday/ Callistus I, Pope, Martyr",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 1: 16-25"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 19: 2-3, 4-5"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Hebrews 4: 12"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 11: 37-41"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "Wednesday",
+        "celebration": "Teresa of Avila, Virgin, Religious, Doctor Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 2: 1-11"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 62: 2-3, 6-7, 9"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 10: 27"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 11: 42-46"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "Thursday",
+        "celebration": "Ordinary Weekday/ Hedwig, Religious/ Margaret Mary Alacoque, Virgin",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 3: 21-30"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 130: 1b-2, 3-4, 5-6ab"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 14: 6"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 11: 47-54"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-17",
+        "weekday": "Friday",
+        "celebration": "Ignatius of Antioch, Bishop, Martyr Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 4: 1-8"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 32: 1b-2, 5, 11"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Psalms 33: 22"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 12: 1-7"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-18",
+        "weekday": "Saturday",
+        "celebration": "Luke, Evangelist Feast",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Second Timothy 4: 10-17b"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 145: 10-11, 12-13, 17-18"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 15: 16"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 10: 1-9"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-19",
+        "weekday": "Sunday",
+        "celebration": "Twenty-Ninth Sunday in Ordinary Time",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Exodus 17: 8-13"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 121: 1-2, 3-4, 5-6, 7-8"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Second Timothy 3: 14 – 4: 2"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Hebrews 4: 12"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 18: 1-8"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-20",
+        "weekday": "Monday",
+        "celebration": "Ordinary Weekday/ Paul of the Cross, Priest, Religious Founder",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 4: 20-25"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Luke 1: 69-70, 71-72, 73-75"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 5: 3"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 12: 13-21"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-21",
+        "weekday": "Tuesday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 5: 12, 15b, 17-19, 20b-21"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 40: 7-8a, 8b-9, 10, 17"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 21: 36"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 12: 35-38"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-22",
+        "weekday": "Wednesday",
+        "celebration": "Ordinary Weekday/ John Paul II, Pope",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 6: 12-18"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 124: 1b-3, 4-6, 7-8"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 24: 42a, 44"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 12: 39-48"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-23",
+        "weekday": "Thursday",
+        "celebration": "Ordinary Weekday/ John of Capistrano, Priest",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 6: 19-23"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 1: 1-2, 3, 4 and 6"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Philippians 3: 8-9"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 12: 49-53"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-24",
+        "weekday": "Friday",
+        "celebration": "Ordinary Weekday/ Anthony Mary Claret, Bishop, Religious Founder",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 7: 18-25a"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 119: 66, 68, 76, 77, 93, 94"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 11: 25"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 12: 54-59"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-25",
+        "weekday": "Saturday",
+        "celebration": "Ordinary Weekday/ Optional Memorial of the Blessed Virgin Mary",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 8: 1-11"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 24: 1b-2, 3-4ab, 5-6"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Ezekiel 33: 11"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 13: 1-9"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-26",
+        "weekday": "Sunday",
+        "celebration": "Thirtieth Sunday in Ordinary Time",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Sirach 35: 12-14, 16-18"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 34: 2-3, 17-18, 19, 23"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Second Timothy 4: 6-8, 16-18"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Second Corinthians 5: 19"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 18: 9-14"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-27",
+        "weekday": "Monday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 8: 12-17"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 68: 2 and 4, 6-7ab, 20-21"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 17: 17b, 17a"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 13: 10-17"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-28",
+        "weekday": "Tuesday",
+        "celebration": "Simon and Jude, Apostles Feast",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Ephesians 2: 19-22"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 19: 2-3, 4-5"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 6: 12-16"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-29",
+        "weekday": "Wednesday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 8: 26-30"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 13: 4-5, 6"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Second Thessalonians 2: 14"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 13: 22-30"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-30",
+        "weekday": "Thursday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 8: 31b-39"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 109: 21-22, 26-27, 30-31"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 19: 38; 2: 14"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 13: 31-35"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-10-31",
+        "weekday": "Friday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 9: 1-5"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 147: 12-13, 14-15, 19-20"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 10: 27"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 14: 1-6"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-01",
+        "weekday": "Saturday",
+        "celebration": "All Saints Solemnity, No Obligation this Year to Attend Mass",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Revelation 7: 2-4, 9-14"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 24: 1b-2, 3-4ab, 5-6"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "First John 3: 1-3"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 11: 28"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 5: 1-12a"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-02",
+        "weekday": "Sunday",
+        "celebration": "",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Wisdom 3: 1-9"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 23: 1-3a, 3b-4, 5, 6"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Romans 6: 3-9"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 25: 34"
+          },
+          {
+            "type": "Gospel",
+            "reference": "John 6: 37-40"
+          }
+        ],
+        "notes": "The Commemoration of All the Faithful Departed (All Souls)"
+      },
+      {
+        "date": "2025-11-03",
+        "weekday": "Monday",
+        "celebration": "Ordinary Weekday/ Martin De Porres, Religious",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 11: 29-36"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 69: 30-31, 33-34, 36"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 8: 31b-32"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 14: 12-14"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-04",
+        "weekday": "Tuesday",
+        "celebration": "Charles Borromeo, Bishop Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 12: 5-16ab"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 131: 1bcde, 2, 3"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 11: 28"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 14: 15-24"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-05",
+        "weekday": "Wednesday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 13: 8-10"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 112: 1b-2, 4-5, 9"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "First Peter 4: 14"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 14: 25-33"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-06",
+        "weekday": "Thursday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 14: 7-12"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 27: 1bcde, 4, 13-14"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 11: 28"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 15: 1-10"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-07",
+        "weekday": "Friday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 15: 14-21"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 98: 1, 2-3ab, 3cd-4"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "First John 2: 5"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 16: 1-8"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-08",
+        "weekday": "Saturday",
+        "celebration": "Ordinary Weekday/ Optional Memorial of the Blessed Virgin Mary",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Romans 16: 3-9, 16, 22-27"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 145: 2-3, 4-5, 10-11"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Second Corinthians 8: 9"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 16: 9-15"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-09",
+        "weekday": "Sunday",
+        "celebration": "",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Ezekiel 47: 1-2, 8-9, 12"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 46: 2-3, 5-6, 8-9"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "First Corinthians 3: 9c-11, 16-17"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Second Chronicles 7: 16"
+          },
+          {
+            "type": "Gospel",
+            "reference": "John 2: 13-22"
+          }
+        ],
+        "notes": "Dedication of the Lateran Basilica in Rome"
+      },
+      {
+        "date": "2025-11-10",
+        "weekday": "Monday",
+        "celebration": "Leo the Great, Pope, Doctor Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Wisdom 1: 1-7"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 139: 1b-3, 4-6, 7-8, 9-10"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Philippians 2: 15d, 16a"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 17: 1-6"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-11",
+        "weekday": "Tuesday",
+        "celebration": "Martin of Tours, Bishop Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Wisdom 2: 23 – 3: 9"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 34: 2-3, 16-17, 18-19"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 14: 23"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 17: 7-10"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-12",
+        "weekday": "Wednesday",
+        "celebration": "Josaphat, Bishop, Religious, Martyr Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Wisdom 6: 1-11"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 82: 3-4, 6-7"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "First Thessalonians 5: 18"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 17: 11-19"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-13",
+        "weekday": "Thursday",
+        "celebration": "Frances Xavier Cabrini, Virgin, Religious Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Wisdom 7: 22b – 8: 1"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 119: 89, 90, 91, 130, 135, 175"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 15: 5"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 17: 20-25"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-14",
+        "weekday": "Friday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Wisdom 13: 1-9"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 19: 2-3, 4-5ab"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 21: 28"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 17: 26-37"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-15",
+        "weekday": "Saturday",
+        "celebration": "Ordinary Weekday/ Optional Memorial of the Blessed Virgin Mary/ Albert the Great, Bishop, Religious, Doctor",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Wisdom 18: 14-16; 19: 6-9"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 105: 2-3, 36-37, 42-43"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Second Thessalonians 2: 14"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 18: 1-8"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-16",
+        "weekday": "Sunday",
+        "celebration": "Thirty-Third Sunday in Ordinary Time",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Malachi 4: 1-2a"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 98: 5-6, 7-8, 9"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Second Thessalonians 3: 7-12"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 21: 28"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 21: 5-19"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-17",
+        "weekday": "Monday",
+        "celebration": "Elizabeth of Hungary, Married Woman, Religious Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Maccabees 1: 10-15, 41-43, 54-57, 62-63"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 119: 53, 61, 134, 150, 155, 158"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 8: 12"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 18: 35-43"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-18",
+        "weekday": "Tuesday",
+        "celebration": "Ordinary Weekday/ Dedication of the Churches of Peter and Paul/ Rose Philippine Duchesne, Virgin, Religious, Missionary",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Second Maccabees 6: 18-31"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 3: 2-3, 4-5, 6-7"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "First John 4: 10b"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 19: 1-10"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-19",
+        "weekday": "Wednesday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Second Maccabees 7: 1, 20-31"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 17: 1bcd, 5-6, 8b and 15"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 15: 16"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 19: 11-28"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-20",
+        "weekday": "Thursday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Maccabees 2: 15-29"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 50: 1b-2, 5-6, 14-15"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Psalms 95: 8"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 19: 41-44"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-21",
+        "weekday": "Friday",
+        "celebration": "Presentation of the Blessed Virgin Mary Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Maccabees 4: 36-37, 52-59"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "First Chronicles 29: 10bcd, 11abc, 11d-12a, 12bcd"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 10: 27"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 19: 45-48"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-22",
+        "weekday": "Saturday",
+        "celebration": "Cecilia, Virgin, Martyr Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Maccabees 6: 1-13"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 9: 2-3, 4 and 6, 16 and 19"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Second Timothy 1: 10"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 20: 27-40"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-23",
+        "weekday": "Sunday",
+        "celebration": "Christ the King Solemnity (Thirty-Fourth and Last Sunday in Ordinary Time)",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Second Samuel 5: 1-3"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 122: 1-2, 3-4ab, 4cd-5"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Colossians 1: 12-20"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Mark 11: 9, 10"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 23: 35-43"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-24",
+        "weekday": "Monday",
+        "celebration": "Andrew Dung-Lac, Priest, Martyr, & Companions, Martyrs Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Daniel 1: 1-6, 8-20"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Daniel 3: 52, 53, 54, 55, 56"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 24: 42a, 44"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 21: 1-4"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-25",
+        "weekday": "Tuesday",
+        "celebration": "Ordinary Weekday/ Catherine of Alexandria, Virgin, Martyr",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Daniel 2: 31-45"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Daniel 3: 57, 58, 59, 60, 61"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Revelation 2: 10c"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 21: 5-11"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-26",
+        "weekday": "Wednesday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Daniel 5: 1-6, 13-14, 16-17, 23-28"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Daniel 3: 62, 63, 64, 65, 66, 67"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Revelation 2: 10c"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 21: 12-19"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-27",
+        "weekday": "Thursday",
+        "celebration": "Ordinary Weekday/ Thanksgiving Day",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Daniel 6: 12-28"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Daniel 3: 68, 69, 70, 71, 72, 73, 74"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 21: 28"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 21: 20-28"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-28",
+        "weekday": "Friday",
+        "celebration": "Ordinary Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Daniel 7: 2-14"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Daniel 3: 75, 76, 77, 78, 79, 80, 81"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 21: 28"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 21: 29-33"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-29",
+        "weekday": "Saturday",
+        "celebration": "Ordinary Weekday/ Optional Memorial of the Blessed Virgin Mary",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Daniel 7: 15-27"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Daniel 3: 82, 83, 84, 85, 86, 87"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 21: 36"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 21: 34-36"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-11-30",
+        "weekday": "Sunday",
+        "celebration": "First Sunday of Advent",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 2: 1-5"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 122: 1-2, 3-4ab, 4cd-5, 6-7, 8-9"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Romans 13: 11-14"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Psalms 85: 8"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 24: 37-44"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-01",
+        "weekday": "Monday",
+        "celebration": "Advent Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 4: 2-6"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 122: 1-2, 3-4b, 4cd-5, 6-7, 8-9"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Psalms 80: 4"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 8: 5-11"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-02",
+        "weekday": "Tuesday",
+        "celebration": "Advent Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 11: 1-10"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 72: 1-2, 7-8, 12-13, 17"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 10: 21-24"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-03",
+        "weekday": "Wednesday",
+        "celebration": "Francis Xavier, Priest, Missionary Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 25: 6-10a"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 23: 1-3a, 3b-4, 5, 6"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 15: 29-37"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-04",
+        "weekday": "Thursday",
+        "celebration": "Advent Weekday/ John of Damascus, Priest, Religious, Doctor",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 26: 1-6"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 118: 1 and 8-9, 19-21, 25-27a"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Isaiah 55: 6"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 7: 21, 24-27"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-05",
+        "weekday": "Friday",
+        "celebration": "Advent Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 29: 17-24"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 27: 1, 4, 13-14"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 9: 27-31"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-06",
+        "weekday": "Saturday",
+        "celebration": "Advent Weekday/ Nicholas, Bishop",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 30: 19-21, 23-26"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 147: 1-2, 3-4, 5-6"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Isaiah 33: 22"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 9: 35 – 10: 1, 5a, 6-8"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-07",
+        "weekday": "Sunday",
+        "celebration": "Second Sunday of Advent",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 11: 1-10"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 72: 1-2, 7-8, 12-13, 17"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Romans 15: 4-9"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 3: 4, 6"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 3: 1-12"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-08",
+        "weekday": "Monday",
+        "celebration": "Immaculate Conception of the Blessed Virgin Mary Solemnity, Holy Day of Obligation",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Genesis 3: 9-15, 20"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 98: 1, 2-3ab, 3cd-4"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Ephesians 1: 3-6, 11-12"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 1: 28"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 1: 26-38"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-09",
+        "weekday": "Tuesday",
+        "celebration": "Advent Weekday/ Juan Diego, Hermit",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 40: 1-11"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 96: 1-2, 3 and 10ac, 11-12, 13"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 18: 12-14"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-10",
+        "weekday": "Wednesday",
+        "celebration": "Advent Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 40: 25-31"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 103: 1-2, 3-4, 8 and 10"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 11: 28-30"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-11",
+        "weekday": "Thursday",
+        "celebration": "Advent Weekday/ Damasus I, Pope",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 41: 13-20"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 145: 1 and 9, 10-11, 12-13ab"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Isaiah 45: 8"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 11: 11-15"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-12",
+        "weekday": "Friday",
+        "celebration": "Our Lady of Guadalupe Feast",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Zechariah 2: 14-17 or Revelation 11: 19a; 12: 1-6a, 10ab"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Judith 13: 18bcde, 19"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 1: 26-38 or Luke 1: 39-47"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-13",
+        "weekday": "Saturday",
+        "celebration": "Lucy, Virgin, Martyr Obligatory Memorial",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Sirach 48: 1-4, 9-11"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 80: 2ac and 3b, 15-16, 18-19"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 3: 4, 6"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 17: 9a, 10-13"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-14",
+        "weekday": "Sunday",
+        "celebration": "Third Sunday of Advent",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 35: 1-6a, 10"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 146: 6-7, 8-9a, 9bc-10"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "James 5: 7-10"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Isaiah 61: 1"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 11: 2-11"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-15",
+        "weekday": "Monday",
+        "celebration": "Advent Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Numbers 24: 2-7, 15-17"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 25: 4-5ab, 6 and 7bc, 8-9"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Psalms 85: 8"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 21: 23-27"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-16",
+        "weekday": "Tuesday",
+        "celebration": "Advent Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Zephaniah 3: 1-2, 9-13"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 34: 2-3, 6-7, 17-18, 19 and 23"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 21: 28-32"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-17",
+        "weekday": "Wednesday",
+        "celebration": "Advent Weekday (O Sapientia)",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Genesis 49: 2, 8-10"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 72: 1-2, 3-4ab, 7-8, 17"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 1: 1-17"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-18",
+        "weekday": "Thursday",
+        "celebration": "Advent Weekday (O Adonai)",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Jeremiah 23: 5-8"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 72: 1-2, 12-13, 18-19"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 1: 18-25"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-19",
+        "weekday": "Friday",
+        "celebration": "Advent Weekday (O Radix Jesse)",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Judges 13: 2-7, 24-25a"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 71: 3-4a, 5-6ab, 16-17"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 1: 5-25"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-20",
+        "weekday": "Saturday",
+        "celebration": "Advent Weekday (O Clavis David)",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 7: 10-14"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 24: 1-2, 3-4ab, 5-6"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 1: 26-38"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-21",
+        "weekday": "Sunday",
+        "celebration": "Fourth Sunday of Advent (O Oriens)",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 7: 10-14"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 24: 1-2, 3-4, 5-6"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Romans 1: 1-7"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Matthew 1: 23"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 1: 18-24"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-22",
+        "weekday": "Monday",
+        "celebration": "Advent Weekday (O Rex Gentium)",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First Samuel 1: 24-28"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "First Samuel 2: 1, 4-5, 6-7, 8abcd"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 1: 46-56"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-23",
+        "weekday": "Tuesday",
+        "celebration": "Advent Weekday (O Emmanuel)/ John of Kanty, Priest",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Malachi 3: 1-4, 4: 5-6"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 25: 4-5ab, 8-9, 10 and 14"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 1: 57-66"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-24",
+        "weekday": "Wednesday",
+        "celebration": "Advent Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Second Samuel 7: 1-5, 8b-12, 14a, 16"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 89: 2-3, 4-5, 27 and 29"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 1: 67-79"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-25",
+        "weekday": "Thursday",
+        "celebration": "The Nativity of the Lord Solemnity – Vigil",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 62: 1-5"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 89: 4-5, 16-17, 27, 29"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Acts 13: 16-17, 22-25"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 1: 1-25"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-25",
+        "weekday": "Thursday",
+        "celebration": "The Nativity of the Lord Solemnity – Midnight",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 9: 1-6"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 96: 1-2, 2-3, 11-12, 13"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Titus 2: 11-14"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 2: 10-11"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 2: 1-14"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-25",
+        "weekday": "Thursday",
+        "celebration": "The Nativity of the Lord Solemnity – Dawn",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 62: 11-12"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 97: 1, 6, 11-12"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Titus 3: 4-7"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 2: 14"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 2: 15-20"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-25",
+        "weekday": "Thursday",
+        "celebration": "The Nativity of the Lord Solemnity – Day",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Isaiah 52: 7-10"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 98: 1, 2-3, 3-4, 5-6"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Hebrews 1: 1-6"
+          },
+          {
+            "type": "Gospel",
+            "reference": "John 1: 1-18"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-26",
+        "weekday": "Friday",
+        "celebration": "Stephen, Protomartyr Feast",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Acts 6: 8-10; 7: 54-59"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 31: 3cd-4, 6 and 8ab, 16bc and 17"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Psalms 118: 26a, 27a"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 10: 17-22"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-27",
+        "weekday": "Saturday",
+        "celebration": "John, Apostle, Evangelist Feast",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First John 1: 1-4"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 97: 1-2, 5-6, 11-12"
+          },
+          {
+            "type": "Gospel",
+            "reference": "John 20: 1a and 2-8"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-28",
+        "weekday": "Sunday",
+        "celebration": "Holy Family Feast",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "Sirach 3: 2-6, 12-14"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 128: 1-2, 3, 4-5"
+          },
+          {
+            "type": "Second Reading",
+            "reference": "Colossians 3: 12-21 or Colossians 3: 12-17"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Colossians 3: 15a, 16a"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Matthew 2: 13-15, 19-23"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-29",
+        "weekday": "Monday",
+        "celebration": "Christmas Weekday/ Thomas Becket, Bishop, Martyr",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First John 2: 3-11"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 96: 1-2a, 2b-3, 5b-6"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "Luke 2: 32"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 2: 22-35"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-30",
+        "weekday": "Tuesday",
+        "celebration": "Christmas Weekday",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First John 2: 12-17"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 96: 7-8a, 8b-9, 10"
+          },
+          {
+            "type": "Gospel",
+            "reference": "Luke 2: 36-40"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "date": "2025-12-31",
+        "weekday": "Wednesday",
+        "celebration": "Christmas Weekday/ Sylvester I, Pope",
+        "readings": [
+          {
+            "type": "First Reading",
+            "reference": "First John 2: 18-21"
+          },
+          {
+            "type": "Responsorial Psalm",
+            "reference": "Psalms 96: 1-2, 11-12, 13"
+          },
+          {
+            "type": "Alleluia",
+            "reference": "John 1: 14a, 12a"
+          },
+          {
+            "type": "Gospel",
+            "reference": "John 1: 1-18"
+          }
+        ],
+        "notes": null
+      }
+    ]
+  }
+}
