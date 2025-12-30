@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liturgical Calendar 2025 - Interactive Visualization</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .stats-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 30px 40px;
+            background: #f8f9fa;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .stat-label {
+            color: #666;
+            margin-top: 5px;
+            font-size: 0.9em;
+        }
+
+        .calendar-container {
+            padding: 40px;
+        }
+
+        .month-selector {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .month-btn {
+            padding: 12px 24px;
+            border: none;
+            background: #e9ecef;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .month-btn:hover {
+            background: #667eea;
+            color: white;
+            transform: scale(1.05);
+        }
+
+        .month-btn.active {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .calendar {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+
+        .day-header {
+            text-align: center;
+            font-weight: bold;
+            color: #667eea;
+            padding: 10px;
+            font-size: 0.9em;
+        }
+
+        .day-cell {
+            aspect-ratio: 1;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            padding: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .day-cell.empty {
+            border: none;
+            cursor: default;
+        }
+
+        .day-cell:not(.empty):hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+        }
+
+        .day-cell.ordinary {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        }
+
+        .day-cell.feast {
+            background: linear-gradient(135deg, #ffeaa7 0%, #fdcb6e 100%);
+            border-color: #fdcb6e;
+        }
+
+        .day-cell.solemnity {
+            background: linear-gradient(135deg, #fd79a8 0%, #e84393 100%);
+            border-color: #e84393;
+            color: white;
+        }
+
+        .day-cell.memorial {
+            background: linear-gradient(135deg, #74b9ff 0%, #0984e3 100%);
+            border-color: #0984e3;
+            color: white;
+        }
+
+        .day-number {
+            font-weight: bold;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+        }
+
+        .day-celebration {
+            font-size: 0.7em;
+            line-height: 1.2;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.7);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            max-width: 600px;
+            max-height: 80vh;
+            overflow-y: auto;
+            position: relative;
+            animation: slideIn 0.3s ease;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: none;
+            border: none;
+            font-size: 2em;
+            cursor: pointer;
+            color: #666;
+            transition: color 0.3s;
+        }
+
+        .close-btn:hover {
+            color: #e84393;
+        }
+
+        .modal-header {
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 3px solid #667eea;
+        }
+
+        .modal-date {
+            font-size: 1.8em;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .modal-celebration {
+            font-size: 1.2em;
+            color: #666;
+            margin-top: 5px;
+        }
+
+        .reading-item {
+            margin: 15px 0;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+
+        .reading-type {
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 5px;
+        }
+
+        .reading-reference {
+            color: #444;
+        }
+
+        .legend {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 4px;
+        }
+
+        .legend-color.ordinary {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            border: 2px solid #ccc;
+        }
+
+        .legend-color.feast {
+            background: linear-gradient(135deg, #ffeaa7 0%, #fdcb6e 100%);
+        }
+
+        .legend-color.solemnity {
+            background: linear-gradient(135deg, #fd79a8 0%, #e84393 100%);
+        }
+
+        .legend-color.memorial {
+            background: linear-gradient(135deg, #74b9ff 0%, #0984e3 100%);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>✨ Liturgical Calendar 2025 ✨</h1>
+            <p class="subtitle">September - December Mass Readings</p>
+        </header>
+
+        <div class="stats-container" id="stats">
+            <div class="stat-card">
+                <div class="stat-number" id="totalDays">-</div>
+                <div class="stat-label">Total Days</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="solemnities">-</div>
+                <div class="stat-label">Solemnities</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="feasts">-</div>
+                <div class="stat-label">Feasts & Memorials</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="ordinaryDays">-</div>
+                <div class="stat-label">Ordinary Days</div>
+            </div>
+        </div>
+
+        <div class="calendar-container">
+            <div class="month-selector">
+                <button class="month-btn active" data-month="9">September</button>
+                <button class="month-btn" data-month="10">October</button>
+                <button class="month-btn" data-month="11">November</button>
+                <button class="month-btn" data-month="12">December</button>
+            </div>
+
+            <div class="calendar" id="calendar"></div>
+
+            <div class="legend">
+                <div class="legend-item">
+                    <div class="legend-color ordinary"></div>
+                    <span>Ordinary Weekday</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color memorial"></div>
+                    <span>Memorial</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color feast"></div>
+                    <span>Feast</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color solemnity"></div>
+                    <span>Solemnity</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <button class="close-btn" onclick="closeModal()">&times;</button>
+            <div class="modal-header">
+                <div class="modal-date" id="modalDate"></div>
+                <div class="modal-celebration" id="modalCelebration"></div>
+            </div>
+            <div id="modalReadings"></div>
+        </div>
+    </div>
+
+    <script>
+        let calendarData = null;
+        let currentMonth = 9;
+
+        // Load the JSON data
+        async function loadData() {
+            try {
+                const response = await fetch('./nain/sept_dec_2025.json');
+                const data = await response.json();
+                calendarData = data.mass_readings_2025;
+                initializeCalendar();
+            } catch (error) {
+                console.error('Error loading calendar data:', error);
+            }
+        }
+
+        function getCelebrationType(celebration) {
+            const lower = celebration.toLowerCase();
+            if (lower.includes('solemnity')) return 'solemnity';
+            if (lower.includes('feast')) return 'feast';
+            if (lower.includes('memorial')) return 'memorial';
+            return 'ordinary';
+        }
+
+        function initializeCalendar() {
+            // Calculate statistics
+            const readings = calendarData.readings;
+            const solemnities = readings.filter(r => getCelebrationType(r.celebration) === 'solemnity').length;
+            const feasts = readings.filter(r => ['feast', 'memorial'].includes(getCelebrationType(r.celebration))).length;
+            const ordinary = readings.filter(r => getCelebrationType(r.celebration) === 'ordinary').length;
+
+            document.getElementById('totalDays').textContent = readings.length;
+            document.getElementById('solemnities').textContent = solemnities;
+            document.getElementById('feasts').textContent = feasts;
+            document.getElementById('ordinaryDays').textContent = ordinary;
+
+            renderCalendar(currentMonth);
+        }
+
+        function renderCalendar(month) {
+            const calendar = document.getElementById('calendar');
+            calendar.innerHTML = '';
+
+            // Add day headers
+            const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+            days.forEach(day => {
+                const header = document.createElement('div');
+                header.className = 'day-header';
+                header.textContent = day;
+                calendar.appendChild(header);
+            });
+
+            // Get first day of month and number of days
+            const firstDay = new Date(2025, month - 1, 1).getDay();
+            const daysInMonth = new Date(2025, month, 0).getDate();
+
+            // Add empty cells for days before month starts
+            for (let i = 0; i < firstDay; i++) {
+                const emptyCell = document.createElement('div');
+                emptyCell.className = 'day-cell empty';
+                calendar.appendChild(emptyCell);
+            }
+
+            // Add day cells
+            for (let day = 1; day <= daysInMonth; day++) {
+                const dateStr = `2025-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+                const reading = calendarData.readings.find(r => r.date === dateStr);
+
+                if (reading) {
+                    const cell = document.createElement('div');
+                    const type = getCelebrationType(reading.celebration);
+                    cell.className = `day-cell ${type}`;
+
+                    cell.innerHTML = `
+                        <div class="day-number">${day}</div>
+                        <div class="day-celebration">${reading.celebration}</div>
+                    `;
+
+                    cell.onclick = () => showReading(reading);
+                    calendar.appendChild(cell);
+                } else {
+                    const emptyCell = document.createElement('div');
+                    emptyCell.className = 'day-cell empty';
+                    calendar.appendChild(emptyCell);
+                }
+            }
+        }
+
+        function showReading(reading) {
+            const modal = document.getElementById('modal');
+            const date = new Date(reading.date);
+            const formattedDate = date.toLocaleDateString('en-US', {
+                weekday: 'long',
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+
+            document.getElementById('modalDate').textContent = formattedDate;
+            document.getElementById('modalCelebration').textContent = reading.celebration;
+
+            const readingsHtml = reading.readings.map(r => `
+                <div class="reading-item">
+                    <div class="reading-type">${r.type}</div>
+                    <div class="reading-reference">${r.reference}</div>
+                </div>
+            `).join('');
+
+            document.getElementById('modalReadings').innerHTML = readingsHtml;
+            modal.classList.add('active');
+        }
+
+        function closeModal() {
+            document.getElementById('modal').classList.remove('active');
+        }
+
+        // Month selector
+        document.querySelectorAll('.month-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                document.querySelectorAll('.month-btn').forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                currentMonth = parseInt(this.dataset.month);
+                renderCalendar(currentMonth);
+            });
+        });
+
+        // Close modal on background click
+        document.getElementById('modal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
+
+        // Initialize
+        loadData();
+    </script>
+</body>
+</html>
